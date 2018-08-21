@@ -4,7 +4,7 @@
 # Installation
 ## Android
 
-We're working on getting our app onto the Google Play Store, until then, you can [download our latest version here](../../releases/download/v0.0.1-Android/FoodRecall.apk)
+We're working on getting our app onto the Google Play Store, until then, you can [download our latest version here](https://github.com/JohnnyHobo/FoodRecall-/releases/download/v0.0.1-Android/FoodRecall.apk)
 
 ## iOS
 
