@@ -4,7 +4,7 @@
 # Installation
 ## Android
 
-The recommended way to install is through the Google Play Store which hosts our newest stable release, but you can download the APK from our github as well and install that way if you prefer.
+We're working on getting our app onto the Google Play Store, until then, you can [download our latest version here](../../releases/download/v0.0.1-Android/FoodRecall.apk)
 
 ## iOS
 
